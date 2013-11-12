@@ -1,4 +1,4 @@
-text_encoder
+Text Encoder
 ============
 
-A Python text encoder and decoder.
+A Python text encryptor  and decrypter using a One-Time Pad algorithm.
